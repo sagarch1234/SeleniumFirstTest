@@ -1,3 +1,4 @@
+package com.testngPackage;
 import org.testng.annotations.Test;
 
 public class TstngNewTest {

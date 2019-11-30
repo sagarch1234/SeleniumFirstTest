@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name=".TstngNewTest"/>
+      <class name="com.testngPackage.TstngNewTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
