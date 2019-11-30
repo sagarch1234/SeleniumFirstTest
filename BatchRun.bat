@@ -1,0 +1,1 @@
+java org.testng.TestNG C:\Users\sagar\eclipse-workspace\SeleniumTest\testng.xml
